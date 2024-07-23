@@ -1,3 +1,3 @@
 # PORTFOLIO
 
-(Muhammed Jaabir Mohamed Zifri)[!https://github.com/jaaabir/portfolio]
+[Muhammed Jaabir Mohamed Zifri](!https://mojaabir.vercel.app/)
