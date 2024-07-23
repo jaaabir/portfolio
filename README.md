@@ -1,3 +1,3 @@
 # PORTFOLIO
 
-[Muhammed Jaabir Mohamed Zifri](!https://mojaabir.vercel.app/)
+[Muhammed Jaabir Mohamed Zifri](https://mojaabir.vercel.app/)
