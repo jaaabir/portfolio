@@ -236,11 +236,11 @@ section { position: relative; z-index: 2; }
 	padding: 0.32rem 0.7rem;
 	border: 1px solid var(--line);
 	border-radius: 100px;
-	color: var(--text);
+	color: var(--dim);
 }
 .hero-kicker .tag .dot {
 	width: 6px; height: 6px; border-radius: 50%;
-	background: var(--accent);
+	background: var(--faint);
 }
 
 .hero-name {
